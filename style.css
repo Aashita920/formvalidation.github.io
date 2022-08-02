@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    /* margin: 0; */
+    /* background-repeat: no-repeat; */
+    background: linear-gradient(to left, rgba(165, 42, 42, 0.765), rgb(124, 123, 123));
+}
+
+.form {
+    background-color: white;
+    width: 80%;
+    
+    margin: 10%;
+}
+h1{
+    color: rgba(243, 16, 16, 0.781);
+    text-decoration: underline;
+
+
+}
+hr {
+    border: 3px solid black;    
+}
