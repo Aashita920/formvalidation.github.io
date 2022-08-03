@@ -14,6 +14,7 @@ $(document).ready(function(){
     });
 
     function usernameValidation(){
+    // function usernameValidation(){
         var usernameval = $('#username').val();
         if(usernameval.length == ''){
             $('#usernamevalidation').show();
