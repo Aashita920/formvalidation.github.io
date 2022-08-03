@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to left, lightyellow, lightgreen);
+    font-family: century;
+    font-size: 20px;
+}
+h1{
+    margin-top: 5%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: justify;
+    margin-top: 10%;
+}
+#submitvalidation{
+    width: 100px;
+
+}
+
