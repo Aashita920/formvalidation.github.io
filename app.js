@@ -112,10 +112,13 @@ $(document).ready(function(){
     }
 
     $('#submitvalidation').click(function(){
+        
         usernameValidation();
         emailValidation();
         passValidation();
         conpassValidation();
+        
+        
 
         if(Error == true && emailErr == true && passErr == true && conpassErr == true){
             return true;
